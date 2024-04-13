@@ -2,7 +2,6 @@ tensorFlow
 numpy
 pillow
 streamlit
-os
 matplotlib
 requests
 pandas
