@@ -6,4 +6,3 @@ os
 matplotlib
 requests
 pandas
-requests
